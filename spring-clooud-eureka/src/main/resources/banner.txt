@@ -1,0 +1,14 @@
+                    \\           //
+                     \\         //
+                      \\       //
+          ##DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD##
+          ## DDDDDDDDDDDDDDDDDDDDDDDDDDDDD ##   ________   ___   ___        ___   ________   ___   ___        ___
+          ## hhh                       hhh ##   |\   __  \ |\  \ |\  \      |\  \ |\   __  \ |\  \ |\  \      |\  \
+          ## hhh      //        \\     hhh ##   \ \  \|\ /_\ \  \\ \  \     \ \  \\ \  \|\ /_\ \  \\ \  \     \ \  \
+          ## hhh     //          \\    hhh ##    \ \   __  \\ \  \\ \  \     \ \  \\ \   __  \\ \  \\ \  \     \ \  \
+          ## hhh                       hhh ##     \ \  \|\  \\ \  \\ \  \____ \ \  \\ \  \|\  \\ \  \\ \  \____ \ \  \
+          ## hhh          wwww         hhh ##      \ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\\ \_______\\ \__\
+          ## hhh                       hhh ##       \|_______| \|__| \|_______| \|__| \|_______| \|__| \|_______| \|__|
+          ## MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM##
+          ##MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM##                             (Release 2.6.1. Powered by jinkela-core 2.4.11-test-1.)
+                   \/            \/

@@ -1,0 +1,5 @@
+com\example\spring\cloud\feign\service\DemoServiceFeign.class
+com\example\spring\cloud\feign\SpringCloudFeignApplication.class
+com\example\spring\cloud\feign\service\HystrixService.class
+com\example\spring\cloud\feign\controller\DemoControllerFeign.class
+com\example\spring\cloud\feign\config\HystrixDashboardConfiguration.class
